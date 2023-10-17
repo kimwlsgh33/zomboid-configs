@@ -1,0 +1,38 @@
+# directory
+Logs
+Sandbox\ Presets
+Saves
+Workshop
+backups
+db
+messaging
+mods
+
+# files
+console.txt
+coop-console.txt
+latestSave.ini
+logs.zip
+options.ini
+
+# etc
+Lua/LastStand
+Lua/ServerlistSteam.txt
+Lua/host.ini
+Lua/invited.ini
+Lua/keys.ini
+Lua/layout.ini
+Lua/modmanager-mods.txt
+Lua/modmanager.ini
+Lua/mods_options.ini
+Lua/saved_builds.txt
+Lua/saved_modtags.txt
+Lua/saved_outfits.txt
+Lua/screenresolution.ini
+
+Server/servertest.ini
+Server/servertest_spawnregions.lua
+
+# backups
+Lua/saved_modlists_bak.txt
+Lua/saved_modlists_server_bak.txt
